@@ -9,3 +9,5 @@
 As persongem usaria de sua força e velocidade para realizar ataques cortantes fortes e rápidos.
 </p>
 
+<p>As principais ferramentas utilizadas foram "extrude" e "mirror".</p>
+
